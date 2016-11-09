@@ -52,3 +52,5 @@ and go on from there.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 I want to code an Android App with multiple people involved.
+
+I try this to make a commit with changes and to get the new status output. YOLO
