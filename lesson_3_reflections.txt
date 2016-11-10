@@ -4,8 +4,9 @@ When I or multiple persons want to access the repository from multiple machines.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-
-    Fill in your answer here
+It's the same issue as we discussed earlier. Git doesnt know when it makes sense 
+to make a commit or upload changes. Also, no one I work with is interested in 
+code that I haven't finished yet. 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
