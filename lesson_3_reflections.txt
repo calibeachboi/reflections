@@ -18,15 +18,16 @@ features or languages would be added to the master branch.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+When cloning a new commit from GITHub, one can first check it and compare to the known one before merging.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
+If you work alone and only on one machine, there is no need for GitHub. GitHub is good for sharing with multiple
+people or devices. Collaborating with multiple people through GitHub enables you to interact quickly, through
+pull requests communicate intended changes in the code and makes interacting easier.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+Changing code in a separate branch is always good for experimenting or for developing new features that are add-ons
+to the master code. Working in the master makes sense when you are completely certain what you are doing and what
+the output will be. When you know that you might break things, better create a branch before.
