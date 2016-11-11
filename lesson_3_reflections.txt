@@ -10,8 +10,11 @@ code that I haven't finished yet.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
-    Fill in your answer here
+Forking is for cloning a repository on the website GITHub from another user, so that in my forked repository users see
+who the actual author is (not me). Cloning is done completely locally or between GITHub and my local machine. Branches 
+are created when making commits that are not supposed to go with the master branch, b/c you wanna try s.th. out or
+develope a new language version. After making sure that the branch works, it can be merged with the master and the new
+features or languages would be added to the master branch.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
